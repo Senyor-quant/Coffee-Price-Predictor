@@ -70,20 +70,12 @@ pip install -r requirements.txt
 ## 👥 Authors
 - Barak Azor
 - Mark Schulitschenko
-- Senyo Azasoo
 - Andrii Kyrylenko
 - Jule Broeders
 - Sarah Elshawaf
+- Senyo Azasoo
 
 Project for **A&F Investments – May 2025**
 
 ## 📄 License
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-## 🧾 What Is the MIT License?
-The MIT License is a permissive open-source license that:
-- ✅ Allows anyone to use, copy, modify, merge, distribute, sublicense, or sell the software
-- ❌ Requires no warranty — users use it at their own risk
-- 📌 Requires attribution — users must include the license and your name in any copies
